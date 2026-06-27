@@ -1,0 +1,3 @@
+from this point inheritence has started
+
+at evry inheritence peogram "_inherit" would be there
