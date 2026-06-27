@@ -25,4 +25,5 @@ To run any of these programs locally on your machine, ensure you have the [Java 
 
 1. **Clone the repository:**
    ```bash
-  https://github.com/adwitiyaomraaj/unique-java-programs.git
+  git clone https://github.com/adwitiyaomraaj/unique-java-programs.git
+
